@@ -1,4 +1,4 @@
 //Your Google custom Search API key
-export const API_KEY = "AIzaSyCyhdYc2cCZCUfs8RiGrzX9iTPINOqeng4";
+export const API_KEY = "YOUR_API_KEY";
 
 export default API_KEY;
